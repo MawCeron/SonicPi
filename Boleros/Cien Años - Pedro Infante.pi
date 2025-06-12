@@ -1,0 +1,96 @@
+# This is a Sonic Pi transcription of "Moonlight Densetsu" from Sailor Moon.
+use_bpm 110
+use_synth :chiplead
+
+# Intro
+play :d4
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.25
+play [:bb4, :cs5]
+sleep 0.25
+play [:a4, :c5]
+sleep 0.25
+play [:g4, :b4]
+sleep 1.2
+play :d5
+sleep 0.75
+play :c5
+sleep 0.5
+play :bb4
+sleep 0.5
+play :a4
+sleep 0.5
+play :g4
+sleep 0.5
+play :f4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :f4
+sleep 0.25
+play :eb4
+sleep 0.25
+play :d4, sustain: 2
+sleep 4
+
+play :d4
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.5
+play [:b4, :d5]
+sleep 0.25
+play [:bb4, :cs5]
+sleep 0.25
+play [:a4, :c5]
+sleep 0.25
+play [:g4, :b4]
+sleep 1.2
+play :d5
+sleep 0.75
+play :c5
+sleep 0.5
+play :bb4
+sleep 0.5
+play :a4
+sleep 0.5
+play :g4
+sleep 0.5
+play :f4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :f4
+sleep 0.25
+play :eb4
+sleep 0.25
+play :d4, sustain: 2
+sleep 4
+
+# Estrofa 1
