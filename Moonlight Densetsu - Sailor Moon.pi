@@ -1,0 +1,321 @@
+# This is a Sonic Pi transcription of "Moonlight Densetsu" from Sailor Moon.
+use_bpm 140
+use_synth :piano
+
+# Intro
+play :fs3
+sleep 0.5
+play :g3
+sleep 1
+sleep 1
+play :ds4
+sleep 0.5
+play :d4
+sleep 0.5
+play :as3
+sleep 0.5
+play :b3
+sleep 0.5
+play :gs4
+sleep 0.5
+play :g4
+sleep 1
+play :g4
+sleep 0.5
+play :c5
+sleep 0.5
+play :eb5
+sleep 0.5
+play :g5, sustain: 0.5
+sleep 1
+play :g5
+sleep 0.5
+play :f5, sustain: 0.5
+sleep 1
+play :f5
+sleep 0.5
+play :ds5
+sleep 1
+play :d5
+sleep 0.5
+play :ds5
+sleep 0.25
+play :f5
+sleep 1.25
+play :b4
+sleep 0.5
+play :d5
+sleep 0.5
+play :f5
+sleep 0.5
+play :gs5, sustain: 0.5
+sleep 1
+play :gs5
+sleep 0.5
+play :as5, sustain: 0.5
+sleep 1
+play :gs5
+sleep 0.5
+play :g5
+sleep 0.5
+play :f5
+sleep 0.5
+play :ds5, sustain: 0.5
+sleep 1
+play :f5
+sleep 0.25
+play :g5, sustain: 0.5
+sleep 1.25
+play :g4
+sleep 0.5
+play :c5
+sleep 0.5
+play :eb5
+sleep 0.5
+play :c6
+sleep 0.5
+play :gs5
+sleep 0.5
+play :eb5
+sleep 0.5
+play :c6
+sleep 0.5
+play :b5
+sleep 0.5
+play :g5
+sleep 0.5
+play :eb5
+sleep 0.5
+play :b5
+sleep 0.5
+play :as5, sustain: 0.5
+sleep 1
+play :gs5, sustain: 0.5
+sleep 1.25
+play :gs5
+sleep 0.5
+play :g5
+sleep 0.5
+play :f5
+sleep 0.5
+play :g5, sustain: 0.5
+sleep 1
+play :f5, sustain: 0.5
+sleep 1
+play :ds5
+sleep 0.5
+play :d5, sustain: 0.5
+sleep 1
+play :c5, sustain: 0.5
+sleep 1
+
+# Phrase 1
+sleep 1
+play :g3
+sleep 0.5
+play :c4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :g4, sustain: 0.5
+sleep 1
+play :g4
+sleep 0.5
+play :f4, sustain: 0.5
+sleep 1
+play :f4
+sleep 0.5
+play :ds4
+sleep 0.5
+play :ds4
+sleep 0.5
+play :d4, sustain: 0.5
+sleep 1
+play :f4, sustain: 0.5
+sleep 1.5
+play :g3
+sleep 0.5
+play :b3
+sleep 0.5
+play :d4
+sleep 0.5
+play :f4, sustain: 0.5
+sleep 1
+play :f4
+sleep 0.5
+play :eb4, sustain: 0.5
+sleep 1
+play :eb4
+sleep 0.5
+play :d4, sustain: 0.5
+sleep 1
+play :c4, sustain: 0.5
+sleep 1
+play :eb4, sustain: 0.5
+sleep 1.5
+play :c4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :g4, sustain: 0.5
+sleep 1
+play :g4
+sleep 0.5
+play :f4, sustain: 0.5
+sleep 1
+play :f4
+sleep 0.5
+play :ds4
+sleep 0.5
+play :ds4
+sleep 0.5
+play :d4, sustain: 0.5
+sleep 1
+play :f4, sustain: 0.5
+sleep 1.5
+play :g3
+sleep 0.5
+play :b3
+sleep 0.5
+play :d4
+sleep 0.5
+play :f4, sustain: 0.5
+sleep 1
+play :g4
+sleep 0.5
+play :f4
+sleep 0.5
+play :eb4
+sleep 0.5
+play :d4, sustain: 0.5
+sleep 1
+play :ds4, sustain: 0.5
+sleep 1
+
+# Phrase 2
+sleep 1
+play :g3
+sleep 0.5
+play :c4
+sleep 0.5
+play :eb4
+sleep 0.5
+play [:eb4,:g4], sustain: 0.5
+sleep 1
+play [:eb4,:g4]
+sleep 0.5
+play [:d4,:f4], sustain: 0.5
+sleep 1
+play [:d4,:f4]
+sleep 0.5
+play [:c4,:ds4], sustain: 0.5
+sleep 1
+play [:b3,:d4]
+sleep 1
+play [:d4,:f4]
+sleep 1.5
+play :g3
+sleep 0.5
+play :b3
+sleep 0.5
+play :d4
+sleep 0.5
+play [:d4,:f4], sustain: 0.5
+sleep 1
+play [:d4,:f4]
+sleep 0.5
+play [:c4,:eb4], sustain: 0.5
+sleep 1
+play [:c4,:eb4]
+sleep 0.5
+play [:b3,:d4], sustain: 0.5
+sleep 1
+play [:g3,:c4]
+sleep 1
+play [:c4,:eb4]
+sleep 1.5
+play :c4
+sleep 0.5
+play :eb4
+sleep 0.5
+play [:eb4,:g4], sustain: 0.5
+sleep 1
+play [:eb4,:g4]
+sleep 0.5
+play [:d4,:f4], sustain: 0.5
+sleep 1
+play [:d4,:f4]
+sleep 0.5
+play [:eb4,:g4]
+sleep 0.5
+play [:eb4,:g4]
+sleep 0.5
+play [:g4,:as4], sustain: 0.5
+sleep 1
+play [:f4,:gs4], sustain: 0.5
+sleep 1.5
+play :gs4
+sleep 0.5
+play :g4
+sleep 0.5
+play :f4
+sleep 0.5
+play :g4, sustain: 0.5
+sleep 1
+play :f4, sustain: 0.5
+sleep 1
+play :ds4
+sleep 0.5
+play :d4, sustain: 0.5
+sleep 1
+play :c4, sustain: 0.5
+sleep 1
+
+# Chorus
+sleep 2.5
+play :c5, sustain: 0.5
+sleep 1
+play [:f5,:gs5], sustain: 2
+sleep 2
+play [:g5,:as5]
+sleep 0.5
+play [:gs5,:c6], sustain: 1
+sleep 1.5
+play [:gs5,:c6], sustain: 0.5
+sleep 1
+play [:g5,:as5]
+sleep 0.5
+play [:f5,:gs5], sustain: 1
+sleep 1.5
+play [:eb5,:g5], sustain: 1
+sleep 1.5
+play [:d5,:f5]
+sleep 0.5
+play [:c5,:eb5]
+sleep 0.5
+play [:d5,:f5], sustain: 0.5
+sleep 1
+play [:eb5,:g5], sustain: 2
+sleep 2
+sleep 1
+play :c5, sustain: 0.5
+sleep 1
+play [:f5,:gs5], sustain: 2
+sleep 2
+play [:g5,:as5]
+sleep 0.5
+play [:gs5,:c6], sustain: 1
+sleep 1.5
+sleep 0.5
+play [:gs5,:c6]
+sleep 0.5
+play [:gs5,:c6]
+sleep 0.5
+play [:g5,:as5], sustain: 0.5
+sleep 1
+play [:f5,:gs5]
+sleep 0.5
+play :g5, sustain: 3
+sleep 2.5
+
+# Outro
